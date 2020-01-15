@@ -2,6 +2,7 @@
 
 The course covers the tools and techniques of managing and analyzing big data. 
 Students will learn how to use cloud services and data mining techniques for analyzing big data.
+The course will focus on mastering key concepts while building programming skills to work with Big Data tools. 
 All programming assignments will be in Python.
 
 Companion Programming Reference.  Deitels, "Python for Programmers" (2019) -- programming reference 
@@ -12,13 +13,18 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 
 Office Hourse: Tuesday 5.30 - 6.30 pm
 
+## Grading 
+10 Assignments/mini projects ~10% each
+
 ## Topics 
-1.  Characteristics of Big Data. Analytics Flow. 
-2. Big Data Patterns. Big Data Developments Stacks. Big Data Architectures. 
-3. Overview of cloud computing: definitions and capabilities. S
+1. Characteristics of Big Data. Analytics Flow. 
+2. Big Data Patterns. Big Data Developments Stacks. Big Data Architectures. Examples.
+3. Cloud computing: definitions and capabilities. 
 4. Scientific computational workflow management. 
-6. New generation databases: key-value (redis), document (MongoDB), column-based, graph (Neo4j)
-8. Analytics algorithms 
+6. New generation databases: key-value (redis), document (MongoDB), column-based, graph (Neo4j). Simple object storage (S3).
+8. Analytics algorithms
+9. Deep learning frameworks (`pytorch`, `tensorflow`)
+9. Containerization and virtualization (`docker`)
 9. Programming in PySpark
 10. Programming Hadoop
 
@@ -40,3 +46,5 @@ Office Hourse: Tuesday 5.30 - 6.30 pm
 * L15: April 22 
 * L16: April 29
 * Final: 
+
+## Grading
