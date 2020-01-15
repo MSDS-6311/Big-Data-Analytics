@@ -1,5 +1,7 @@
 # Big Data
 
+Spring 2020.
+
 The course covers the tools and techniques of managing and analyzing big data. 
 Students will learn how to use cloud services and data mining techniques for analyzing big data.
 The course will focus on mastering key concepts while building programming skills to work with Big Data tools. 
@@ -45,6 +47,4 @@ Office Hourse: Tuesday 5.30 - 6.30 pm
 * L14: April 15
 * L15: April 22 
 * L16: April 29
-* Final: 
-
-## Grading
+* Final: May 13, 2020
