@@ -32,9 +32,9 @@ Office Hourse: Tuesday 5.30 - 6.30 pm
 10. Programming Hadoop
 
 ## Lectures and assignments 
-* L1: Jan 15. Course overview. Connect to cloud instances, configure accounts. Using ssh and bash command line utilities.
-* L2: Jan 22. Distributed data management.  Recommended reading: Guy Harrison, "Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300
-* L3: Jan 29.
+* L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities.
+* L2: Jan 22. *Topic:* Big Data ecosystem.  Recommended reading. Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series). *Practice*: hashes and UUID
+* L3: Jan 29. *Topic:* Big Data management.  Recommended reading: Guy Harrison, "Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300. *Practice*: data serialization. 
 * L4: Feb 5.
 * L6: Feb 12
 * L7: Feb 19
