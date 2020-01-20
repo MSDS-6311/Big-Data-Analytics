@@ -36,7 +36,7 @@ Choose a text editor: `nano` or `vi` and learn to edit files and save them.
 
 Understand privileges: "user", "group", and "other" for read/write/execute. 
 
-# Submission 
+# Assignment
 Due Jan 27, 2020
 
 To complete this assignment, perform the following 
@@ -61,7 +61,6 @@ cat big-data.txt >> out.md
 ```
 This will produce the file `out.md`.
 9. Use the `less` command to review the contents of `out.md`. Exit by pressing "q".
-
 10. Create a file named `count.py` and write a python program that reads `out.md` and prints the number of sentences. Add the the path to the python interpreter in its first line as in
 ```python
 #!/usr/bin/python3
@@ -73,4 +72,4 @@ Make `count.py` executable by changing its permissions and run it as
 ```
 11. Finally add `./count.py >> out.md` as the last line of `./combine` and re-run `./combine`. You can verify that it work by reviewing `out.md`
 
-I will grade this assignment by verifying the contents of `out.md` and `count.py`
+The  assignment by verifying the contents of `out.md` and `count.py`
