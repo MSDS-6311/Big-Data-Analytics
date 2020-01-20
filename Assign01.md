@@ -60,7 +60,9 @@ cat big-data.txt >> out.md
 ./combine
 ```
 This will produce the file `out.md`.
+
 9. Use the `less` command to review the contents of `out.md`. Exit by pressing "q".
+
 10. Create a file named `count.py` and write a python program that reads `out.md` and prints the number of sentences. Add the the path to the python interpreter in its first line as in
 ```python
 #!/usr/bin/python3
