@@ -7,13 +7,13 @@ Students will learn how to use cloud services and data mining techniques for ana
 The course will focus on mastering key concepts while building programming skills to work with Big Data tools. 
 All programming assignments will be in Python.
 
-Companion Programming Reference.  Deitels, "Python for Programmers" (2019) -- programming reference 
+Companion Programming Reference to refresh Python (helpful but not required):  Deitel, "Python for Programmers" (2019) -- programming reference 
 
 Slack organization: https://big-data-ust.slack.com
 
 Meeting time: Wednesday 5.30 - 8.15 pm
 
-Office Hourse: Tuesday 5.30 - 6.30 pm
+Office Hours: Tuesday 5.30 - 6.30 pm
 
 ## Grading 
 10 Assignments/mini projects ~10% each
@@ -28,15 +28,14 @@ Office Hourse: Tuesday 5.30 - 6.30 pm
 8. Analytics algorithms
 9. Deep learning frameworks (`pytorch`, `tensorflow`)
 9. Containerization and virtualization (`docker`)
-9. Programming in PySpark
-10. Programming Hadoop
+9. Programming in PySpark and Hadoop
 
 ## Lectures and assignments 
-* L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities: [Assignment1](Assign01.md)
-* L2: Jan 22. *Topic:* Big Data ecosystem.  Recommended reading. Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series). *Practice*: hashes and UUID
-* L3: Jan 29. *Topic:* Big Data management.  Recommended reading: Guy Harrison, "Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300. *Practice*: data serialization. 
-* L4: Feb 5.
-* L6: Feb 12
+* L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities: [Assignment1](Assign01.md) due Jan 27.
+* L2: Jan 22. *Topic:* Big Data ecosystem.  Recommended reading. Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series). *Practice*: hashes and UUIDs. **Assignment 2** due Feb 3.
+* L3: Jan 29: *Topic:* Big Data ecosystem (continued). *Practice*: version control with `git`. **Assignment 3** due Feb 10.
+* L4: Feb 5. *Topic:* Big Data management.  Recommended reading: Guy Harrison, "Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300. *Practice*: data serialization. 
+* L6: Feb 12. *Topic:* Big Data Management
 * L7: Feb 19
 * L8: Feb 26
 * L9: March 4

@@ -1,4 +1,4 @@
-# Assignmnet 1 
+# Unix command line
 
 Unix command line utilities have been around for nearly half a century and they will continue to be the principal way for communicating with servers and remote systems for decades to come. All major operating systems (including Windows PowerShell) support Unix-style command line utilities.
 
@@ -42,12 +42,11 @@ Due Jan 27, 2020
 To complete this assignment, perform the following 
 
 1. Log into `main.data-science-ust.net`. Upon login, you are in your home directory, which is `/home/bob` if you are Bob. You can always go back to your home folder using `cd ~`. In paths, `~` is shorthand for your home folder. 
-2. In your home directory, create a folder named `homework`
+2. In your home directory, create a folder named `homework`. Remove the `x` permission on the folder from others so that no one else can access your work.
 3. Inside `homework`, create another folder named `a01`
-4. Change the permissions on these folders so that other users cannot enter them, read them, or write to them. 
-5. Inside `~/homework/a01`, create a text file named `data-science.txt` Edit the file and write your explanation of the principal differences between the use of the terms "statistics" and "data-science". 
-6. Inside `~/homework/a01`, create a text file named `big-data.txt`. Edit the file and write your explanation of the defining characteristics of Big Data technologies. 
-7. Create a file named `combine` that will become an executable bash script, containing one or more command lines. The script will combine the two text files into one.  The contents of the files should be
+4. Inside `~/homework/a01`, create a text file named `data-science.txt` Edit the file and write your explanation of the principal differences between the use of the terms "statistics" and "data-science". 
+5. Inside `~/homework/a01`, create a text file named `big-data.txt`. Edit the file and write your explanation of the defining characteristics of Big Data technologies. 
+6. Create a file named `combine` that will become an executable bash script, containing one or more command lines. The script will combine the two text files into one.  The contents of the files should be
 ```shell
 #!/bin/bash
 echo "# Chapter 1" > out.md
@@ -55,15 +54,15 @@ cat data-science.txt >> out.md
 echo -e "\n# Chapter 2" >> out.md
 cat big-data.txt >> out.md
 ```
-8. Change the permissions on `combine` to make it executable.
-9. Execute `commbine` by entering  the command
+7. Change the permissions on `combine` to make it executable.
+8. Execute `commbine` by entering  the command
 ```
 ./combine
 ```
 This will produce the file `out.md`.
-10. Use the `less` command to review the contents of `out.md`. Exit by pressing "q".
+9. Use the `less` command to review the contents of `out.md`. Exit by pressing "q".
 
-11. Create a file named `count.py` and write a python program that reads `out.md` and prints the number of sentences. Add the the path to the python interpreter in its first line as in
+10. Create a file named `count.py` and write a python program that reads `out.md` and prints the number of sentences. Add the the path to the python interpreter in its first line as in
 ```python
 #!/usr/bin/python3
 print("Hello world!")
@@ -72,6 +71,6 @@ Make `count.py` executable by changing its permissions and run it as
 ```shell
 ./count.py
 ```
-12. Finally add `./count.py >> out.md` as the last line `./combine` and re-run it. You can verify that it work by reviewing `out.md`
+11. Finally add `./count.py >> out.md` as the last line of `./combine` and re-run `./combine`. You can verify that it work by reviewing `out.md`
 
 I will grade this assignment by verifying the contents of `out.md` and `count.py`
