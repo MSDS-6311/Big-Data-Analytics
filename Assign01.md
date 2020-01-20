@@ -18,7 +18,7 @@ Please let me know if you cannot locate your `.pem` file and I will issue you a 
 
 In class, we reviewed the basic utilities for viewing directory contents, viewing text files, navigting the folder hierarchy, creating and removing folders, creating and editing text files, deleting files, and changing access permissions. We used the `man` pages to learn about the options that each command provides. We also learned how to create and execute simple shell scripts and python programs.
 
-Know how to use the shell commands: `pwd`, `ls`, `cd`, `cat`, `less`, `mkdir`, `rm`, `rmdir`, `chmod`, `touch`, `vi` or `nano`, `echo`, and `man`.
+Know how to use the shell commands: `pwd`, `ls`, `cd`, `cat`, `less`, `mkdir`, `rm`, `rmdir`, `chmod`, `touch`, `vi` or `nano`, `echo`, `which`, and `man`.
 
 Understand how command options are used, e.g.
 ```shell
@@ -30,6 +30,48 @@ Understand how wildcards `*` work and redirection of standard output, e.g.
 cat assign*txt > report.txt 
 ```
 
+Learn to execute an executable program such as one of your own scripts or a pre-installed program such as `python3`.
+
 Choose a text editor: `nano` or `vi` and learn to edit files and save them.
 
-To complete the assignment, 
+Understand privileges: "user", "group", and "other" for read/write/execute. 
+
+# Submission 
+Due Jan 27, 2020
+
+To complete this assignment, perform the following 
+
+1. Log into `main.data-science-ust.net`. Upon login, you are in your home directory, which is `/home/bob` if you are Bob. You can always go back to your home folder using `cd ~`. In paths, `~` is shorthand for your home folder. 
+2. In your home directory, create a folder named `homework`
+3. Inside `homework`, create another folder named `a01`
+4. Change the permissions on these folders so that other users cannot enter them, read them, or write to them. 
+5. Inside `~/homework/a01`, create a text file named `data-science.txt` Edit the file and write your explanation of the principal differences between the use of the terms "statistics" and "data-science". 
+6. Inside `~/homework/a01`, create a text file named `big-data.txt`. Edit the file and write your explanation of the defining characteristics of Big Data technologies. 
+7. Create a file named `combine` that will become an executable bash script, containing one or more command lines. The script will combine the two text files into one.  The contents of the files should be
+```shell
+#!/bin/bash
+echo "# Chapter 1" > out.md
+cat data-science.txt >> out.md
+echo -e "\n# Chapter 2" >> out.md
+cat big-data.txt >> out.md
+```
+8. Change the permissions on `combine` to make it executable.
+9. Execute `commbine` by entering  the command
+```
+./combine
+```
+This will produce the file `out.md`.
+10. Use the `less` command to review the contents of `out.md`. Exit by pressing "q".
+
+11. Create a file named `count.py` and write a python program that reads `out.md` and prints the number of sentences. Add the the path to the python interpreter in its first line as in
+```python
+#!/usr/bin/python3
+print("Hello world!")
+```
+Make `count.py` executable by changing its permissions and run it as 
+```shell
+./count.py
+```
+12. Finally add `./count.py >> out.md` as the last line `./combine` and re-run it. You can verify that it work by reviewing `out.md`
+
+I will grade this assignment by verifying the contents of `out.md` and `count.py`
