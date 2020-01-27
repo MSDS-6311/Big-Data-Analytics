@@ -23,7 +23,7 @@ For each problem below, save the answer in a separate file with extensions `.txt
 ### Problem 1 (Math).
 What minimum number of bits must a hash function encode so that 1 billion items would have less that 1% chance of colliding, i.e. producing the same hash value for two different items. 
 
-This type of problem is described as the [birthday paradox](https://betterexplained.com/articles/understanding-the-birthday-paradox/)
+This type of problem is described as the [birthday paradox](https://betterexplained.com/articles/understanding-the-birthday-paradox/), also [on wikipedia](https://en.wikipedia.org/wiki/Birthday_problem).
 
 
 ### Problem 2 (Math). 
