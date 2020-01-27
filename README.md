@@ -2,13 +2,13 @@
 
 Spring 2020.
 
-The course covers the tools and techniques of managing and analyzing big data. 
-Students will learn how to use cloud services and data mining techniques for analyzing big data.
-The course will focus on mastering key concepts while building programming skills to work with Big Data tools. 
-All programming assignments will be in Python.
+### Catalog Course Description
+The tools and techniques of managing and analyzing big data will be covered. Students learn how to use cloud services and data mining techniques for analyzing big data. **Prerequisites:** MSDS 5311.
+
+### Details 
+The course covers the tools and techniques of managing and analyzing big data.  Students will learn how to use cloud services and data mining techniques for analyzing big data.  The course will focus on mastering key concepts while building programming skills to work with Big Data tools.  All programming assignments will be in Python.
 
 Companion Programming Reference to refresh Python (helpful but not required):  Deitel, "Python for Programmers" (2019) -- programming reference 
-
 Slack organization: https://big-data-ust.slack.com
 
 Meeting time: Wednesday 5.30 - 8.15 pm
@@ -20,16 +20,16 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 
 |grade| percent |
 |---|---|
-|**A** |>=96%|
-|**A-**|>=92%|
-|**B+**|>=88%|
-|**B**|>=84%|
-|**B-**|>=80%|
-|**C+**|>=76%|
-|**C**|>=72%|
-|**C-**|>=68%|
-|**D+**|>=64%|
-|**D**|>=60%|
+|**A** |>=94%|
+|**A-**|>=90%|
+|**B+**|>=86%|
+|**B**|>=82%|
+|**B-**|>=78%|
+|**C+**|>=74%|
+|**C**|>=70%|
+|**C-**|>=66%|
+|**D+**|>=62%|
+|**D**|>=58%|
 |**F**|>=0%|
 
 ## Topics 
