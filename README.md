@@ -31,9 +31,9 @@ Office Hours: Tuesday 5.30 - 6.30 pm
 9. Programming in PySpark and Hadoop
 
 ## Lectures and assignments 
-* L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities: [Assignment1](Assign01.md) due Jan 27.
-* L2: Jan 22. *Topic:* Big Data ecosystem.  Recommended reading. Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series). *Practice*: hashes and UUIDs. **Assignment 2** due Feb 3.
-* L3: Jan 29: *Topic:* Big Data ecosystem (continued). *Practice*: version control with `git`. **Assignment 3** due Feb 10.
+* L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities: [**Assignment1**](Assign01.md) due Jan 27.
+* L2: Jan 22. *Topic:* Big Data ecosystem.  Recommended reading: Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series) *Practice*: hashes and UUIDs. [**Assignment 2**](Assign02.md) due Feb 3.
+* L3: Jan 29: *Topic:* Big Data ecosystem (continued). Recommended reading: [Jules Berman, Principles and Practice of Big Data (2nd Edition)](https://learning.oreilly.com/library/view/principles-and-practice/9780128156100/B9780128156094000108.xhtml)  *Practice*: version control with [`git`](https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197). **Assignment 3** due Feb 10.
 * L4: Feb 5. *Topic:* Big Data management.  Recommended reading: Guy Harrison, "Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300. *Practice*: data serialization. 
 * L6: Feb 12. *Topic:* Big Data Management
 * L7: Feb 19
