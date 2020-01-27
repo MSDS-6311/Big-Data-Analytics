@@ -16,7 +16,21 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 Office Hours: Tuesday 5.30 - 6.30 pm
 
 ## Grading 
-10 Assignments/mini projects ~10% each
+12 Assignments/projects 
+
+|grade| percent |
+|---|---|
+|**A** |>=96%|
+|**A-**|>=92%|
+|**B+**|>=88%|
+|**B**|>=84%|
+|**B-**|>=80%|
+|**C+**|>=76%|
+|**C**|>=72%|
+|**C-**|>=68%|
+|**D+**|>=64%|
+|**D**|>=60%|
+|**F**|>=0%|
 
 ## Topics 
 1. Characteristics of Big Data. Analytics Flow. 
