@@ -13,7 +13,7 @@ Slack organization: https://big-data-ust.slack.com
 
 Meeting time: Wednesday 5.30 - 8.15 pm
 
-Office Hours: Tuesday 5.30 - 6.30 pm
+Office Hours: Tuesday 6.30 - 7.30 pm
 
 ## Grading 
 12 Assignments/projects 
