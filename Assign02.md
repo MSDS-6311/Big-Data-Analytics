@@ -16,6 +16,8 @@ In this exercise, you will master the following two modules of the Python standa
 * [`hashlib`](https://docs.python.org/3.7/library/hashlib.html)
 * [`uuid`](https://https://docs.python.org/3.7/library/uuid.html)
 
+The purpose of this exercise is develop understanding and skills for using hashes for identification and verification of data objects. 
+
 
 In your home folder on `main.data-science-ust`, create the folder `~/homework/a02`. 
 For each problem below, save the answer in a separate file with extensions `.txt` for text files and `.py` for python programs. Make the python programs executable specifying the Python interpreter and granting the `x` permission to yourself with the `chmod` command.
