@@ -41,13 +41,14 @@ Save your program as `~/homework/a02/problem3.py` and make it executable.
 
 
 ### Problem 4. Password check
-Secure systems do not store user passwords directly. Instead, they store the hashes of passwords. 
+Secure systems do not store user passwords directly. Instead, they store the hashes of passwords.
 This enables the system to check passwords even if someone is able to read the stored hashes. 
+Stealing the hashes does not enable one to break into the system. 
 As an extra precaution, passwords are prefixed by a short random string called "salt", which is stored along with the hash. 
 This prevents someone from detecting if the same password is used twice. 
 Read more about [password salting](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/).
 
-Write a python program to answer which of the following passwords corresponds to the `sha-1` checksum `334fd4c7a6283b9c09705f500dd97722a83398fb`  with salt string `a0q7`. This means that if the password was `Freedom7`, the string passed to `sha1` would be `a0q7Freedom7`.
+Write a python program to answer which of the following passwords corresponds to the `sha-1` checksum `334fd4c7a6283b9c09705f500dd97722a83398fb`  with the salt string `a0q7`. This means that if the password was `Freedom7`, the string passed to `sha1` would be `a0q7Freedom7`.
 
 ```python
 salt = "a0q7"
@@ -59,7 +60,7 @@ Save your program as `~/homework/a02/problem4.py` and make it executable.
 
 ### Problem 5. Password break
 You found that someone is using a password consisting of only three characters and you found that its `md5` hash is `52268f215114b03e97f21b8227b487af`.
-The password hash was "salted" with the prefix "s7".  This means that if the password was "a7#", then the hash would be computed on the string "s3A7#". 
+The password hash was "salted" with the prefix "s7".  This means that if the password was "a7#", then the hash would be computed on the string "s7A7#". 
 
 Write a short python program that breaks the password. What was the password? 
 
