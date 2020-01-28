@@ -1,4 +1,4 @@
-# Assignment 2. Hash functions ad UUIDs
+# Assignment 2. Hash functions and UUIDs
 
 
 Due Feb 3, 2020
