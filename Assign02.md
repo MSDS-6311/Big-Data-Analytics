@@ -62,7 +62,7 @@ Save your program as `~/homework/a02/problem4.py` and make it executable.
 
 ### Problem 5. Password break
 You found that someone is using a password consisting of only three characters and you found that its `md5` hash is `52268f215114b03e97f21b8227b487af`.
-The password hash was "salted" with the prefix "s7".  This means that if the password was "a7#", then the hash would be computed on the string "s7A7#". 
+The password hash was "salted" with the prefix "s7".  This means that if the password was "a7#", then the hash would be computed on the string "s7a7#". 
 
 Write a short python program that breaks the password. What was the password? 
 
