@@ -1,6 +1,6 @@
 # Big Data
 
-Spring 2020.
+Spring 2020.  Instructor Dr. [Dimitri Yatsenko](https://github.com/dimitri-yatsenko)
 
 ### Catalog Course Description
 The tools and techniques of managing and analyzing big data will be covered. Students learn how to use cloud services and data mining techniques for analyzing big data. **Prerequisites:** MSDS 5311.
@@ -14,6 +14,18 @@ Slack organization: https://big-data-ust.slack.com
 Meeting time: Wednesday 5.30 - 8.15 pm
 
 Office Hours: Tuesday 6.30 - 7.30 pm
+
+## Topics 
+1. Characteristics of Big Data. Analytics Flow. 
+2. Big Data Patterns. Big Data Developments Stacks. Big Data Architectures. Examples.
+3. Cloud computing: definitions and capabilities. 
+4. Scientific computational workflow management. 
+6. New generation databases: key-value (redis), document (MongoDB), column-based, graph (Neo4j). Simple object storage (S3).
+7. Data consistency, Transaction models, CAP Theorem
+8. Analytics algorithms
+9. Deep learning frameworks (`pytorch`, `tensorflow`)
+9. Containerization and virtualization (`docker`)
+9. Programming in PySpark and Hadoop
 
 ## Grading 
 12 Assignments/projects 
@@ -32,17 +44,6 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 |**D**|>=58%|
 |**F**|>=0%|
 
-## Topics 
-1. Characteristics of Big Data. Analytics Flow. 
-2. Big Data Patterns. Big Data Developments Stacks. Big Data Architectures. Examples.
-3. Cloud computing: definitions and capabilities. 
-4. Scientific computational workflow management. 
-6. New generation databases: key-value (redis), document (MongoDB), column-based, graph (Neo4j). Simple object storage (S3).
-7. Data consistency, Transaction models, CAP Theorem
-8. Analytics algorithms
-9. Deep learning frameworks (`pytorch`, `tensorflow`)
-9. Containerization and virtualization (`docker`)
-9. Programming in PySpark and Hadoop
 
 ## Lectures and assignments 
 * L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities: [**Assignment1**](Assign01.md) due Jan 27.
