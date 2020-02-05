@@ -50,11 +50,11 @@ As an extra precaution, passwords are prefixed by a short random string called "
 This prevents someone from detecting if the same password is used twice. 
 Read more about [password salting](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/).
 
-Write a python program to answer which of the following passwords corresponds to the `sha-1` checksum `334fd4c7a6283b9c09705f500dd97722a83398fb`  with the salt string `a0q7`. This means that if the password was `Freedom7`, the string passed to `sha1` would be `a0q7Freedom7`.
+Write a python program to answer which of the following passwords corresponds to the `sha-1` checksum `0acf5519fc1c2da2bbdb7303c602569268d37a03`  with the salt string `a0q7`. This means that if the password was `Freedom7`, the string passed to `sha1` would be `a0q7Freedom7`.
 
 ```python
 salt = "a0q7"
-pass_hash = "334fd4c7a6283b9c09705f500dd97722a83398fb"
+pass_hash = "0acf5519fc1c2da2bbdb7303c602569268d37a03"
 passwords = ['aardvarK7', 'platypU7', 'platypus', 'sea-otter-37', 'Mirounga33', 'Dugong!']
 ```
 
