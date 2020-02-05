@@ -46,20 +46,49 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 
 
 ## Lectures and assignments 
-* L1: Jan 15. *Topic:* Course overview. Connect to cloud instances, configure accounts. *Practice:* Using ssh and bash command line utilities: [**Assignment1**](Assign01.md) due Jan 27.
-* L2: Jan 22. *Topic:* Big Data ecosystem.  Recommended reading for a gentle, non-technical introduction: [Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/) *Practice*: hashes and UUIDs. [**Assignment 2**](Assign02.md) due Feb 6.
-* L3: Jan 29: *Topic:* Big Data ecosystem (continued). Recommended reading for general practical issues with Python-based examples: [Jules Berman, Principles and Practice of Big Data (2nd Edition)](https://learning.oreilly.com/library/view/principles-and-practice/9780128156100/B9780128156094000108.xhtml) Chapters 1 and 3.  *Practice*: version control with [`git`](https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197). [**Assignment 3**](Assign03.md) due Feb 13.
-* L4: Feb 5. *Topic:* Big Data management.  Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) *Practice*: data serialization, object storage. **Assignment 4** due Feb 20.
-* L6: Feb 12. *Topic:* Big Data Management. **Assignment 5** due Feb 27.
-* L7: Feb 19. *Topic:* Cloud Computing. Reading: [NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) **Assignment 6** due March 2.
-* L8: Feb 26. *Topic:* Cloud Computing. **Assignment 7** due March 9.
-* L9: March 4. *Topic:*  
-* L10: March 11
-* March 18 - Spring Break
-* L11: March 25
-* L12: April 1
-* L13: April 8
-* L14: April 15
-* L15: April 22 
-* L16: April 29
-* Final: May 13, 2020
+### L1: Jan 15. Course overview. 
+* Connect to cloud instances, configure accounts. 
+* *Practice:* Using ssh and bash command line utilities: 
+* [**Assignment1**](Assign01.md) due Jan 27.
+
+### L2: Jan 22. Big Data applications and tools  
+* Recommended reading for a gentle, non-technical introduction: [Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/) 
+* *Practice*: hashes and UUIDs 
+* [**Assignment 2**](Assign02.md) due Feb 6.
+
+### L3: Jan 29. Big Data applications and tools (continued). 
+* Recommended reading for general practical issues with Python-based examples: [Jules Berman, Principles and Practice of Big Data (2nd Edition)](https://learning.oreilly.com/library/view/principles-and-practice/9780128156100) Chapters 1 and 3.  
+* *Practice*: version control with [`git`](https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197).
+* Business case: [SiteZeus](https://sitezeus.com)
+  * [Video 1: Model basics and adding data](https://www.youtube.com/watch?v=c4m4HH19m5Q)
+  * [Video 2: Predictive modeling](https://www.youtube.com/watch?v=CuihDgBtApI)
+  * [Video 3: Using cell phone data](https://www.youtube.com/watch?v=OHGxfjNzIHY) 
+* [**Assignment 3**](Assign03.md) due Feb 13.
+
+### L4: Feb 5. Big Data management.  
+* Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
+* *Practice*: data serialization, object storage.
+*  **Assignment 4** due Feb 20.
+
+### L5: Feb 12. Big Data Management (continued)
+*  **Assignment 5** due Feb 27.
+
+
+### L6: Feb 19. Cloud Computing. 
+* Reading: [NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) 
+* Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
+* **Assignment 6** due March 2.
+
+### L7: Feb 26. Cloud Computing. 
+* **Assignment 7** due March 9.
+
+### L8: March 4.   
+### L9: March 11
+### L10: March 18 - **Spring Break**
+### L11: March 25
+### L12: April 1
+### L13: April 8
+### L14: April 15
+### L15: April 22 
+### L16: April 29
+### Final: May 13
