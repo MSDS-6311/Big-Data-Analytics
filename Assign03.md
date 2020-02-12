@@ -53,8 +53,16 @@ git commit
 ```
 This will  bring up an editor to edit the commit message.
 
-After a successful commit, you can push the changes back to your repository. 
-Review the contents of your repository on `GitHub.com`.
+After a successful commit, you can push the changes back to your repository with the command
+
+```
+git push
+```
+
+Then you can review the contents of your repository on `GitHub.com`.
+
 
 Follow the instructons in the `README` file (front page of the repo) to complete the assignment.
+
+
 
