@@ -77,8 +77,13 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 * Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
 * [**Assignment 4**](Assign04.md) due March 4.
 
+<<<<<<< HEAD
 ### L7: Feb 26. Cloud Computing (Continued). 
 * **Assignment 5** due March 11.
+=======
+### L7: Feb 26. Cloud Computing. 
+* **Assignment 5** due March 16.
+>>>>>>> 6e2f009610fd9c380103c35a0198aec44bb04ff2
 
 ### L8: March 4
 ### L9: March 11
