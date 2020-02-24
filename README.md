@@ -28,7 +28,7 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 9. Programming in PySpark and Hadoop
 
 ## Grading 
-12 Assignments/projects 
+10-12 Assignments/projects 
 
 |grade| percent |
 |---|---|
@@ -63,26 +63,24 @@ Office Hours: Tuesday 6.30 - 7.30 pm
   * [Video 1: Model basics and adding data](https://www.youtube.com/watch?v=c4m4HH19m5Q)
   * [Video 2: Predictive modeling](https://www.youtube.com/watch?v=CuihDgBtApI)
   * [Video 3: Using cell phone data](https://www.youtube.com/watch?v=OHGxfjNzIHY) 
-* [**Assignment 3**](Assign03.md) due Feb 18.
 
 ### L4: Feb 5. Big Data management.  
 * Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
 * *Practice*: data serialization, object storage.
-*  **Assignment 4** due Feb 25.
+* [**Assignment 3**](Assign03.md) due Feb 18.
 
 ### L5: Feb 12. Big Data Management (continued)
-*  **Assignment 5** due March 1.
 
 
 ### L6: Feb 19. Cloud Computing. 
 * Reading: [NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) 
 * Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
-* **Assignment 6** due March 8.
+* [**Assignment 4**](Assign04.md) due March 4.
 
-### L7: Feb 26. Cloud Computing. 
-* **Assignment 7** due March 16.
+### L7: Feb 26. Cloud Computing (Continued). 
+* **Assignment 5** due March 11.
 
-### L8: March 4.   
+### L8: March 4
 ### L9: March 11
 ### L10: March 18 - **Spring Break**
 ### L11: March 25

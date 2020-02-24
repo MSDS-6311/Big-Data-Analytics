@@ -1,4 +1,4 @@
-# Preparation 
+# Assignment 3: Regular Expressions, Git, and a Business Case
 
 ## Regular expressions
 Learn to use *regular expressions*. Resources:
