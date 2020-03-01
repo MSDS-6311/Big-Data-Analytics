@@ -75,23 +75,24 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 ### L6: Feb 19. Cloud Computing. 
 * Reading: [NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) 
 * Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
-* [**Assignment 4**](Assign04.md) due March 4.
+* [**Assignment 4**](Assign04.md) due March 12.
 
-<<<<<<< HEAD
 ### L7: Feb 26. Cloud Computing (Continued). 
-* **Assignment 5** due March 11.
-=======
-### L7: Feb 26. Cloud Computing. 
-* **Assignment 5** due March 16.
->>>>>>> 6e2f009610fd9c380103c35a0198aec44bb04ff2
+* **Assignment 5** due March 25.
 
 ### L8: March 4
+* **Assignment 6** due April 1.
 ### L9: March 11
+* **Assignment 7** due April 8.
 ### L10: March 18 - **Spring Break**
 ### L11: March 25
+* **Assignment 8** due April 15.
 ### L12: April 1
+* **Assignment 9** due April 22.
 ### L13: April 8
+* **Assignment 10** due April 29.
 ### L14: April 15
+* **Assignment 11** due May 13.
 ### L15: April 22 
 ### L16: April 29
 ### Final: May 13
