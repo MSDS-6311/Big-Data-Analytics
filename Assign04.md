@@ -8,3 +8,5 @@ Using the AWS accounts set up for you in class, learn your way around the AWS co
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html
 * https://aws.amazon.com/s3/
+
+The problems and the submission link will be sent separately from GitHub Classroom.
