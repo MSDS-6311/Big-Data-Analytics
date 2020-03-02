@@ -75,7 +75,7 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 ### L6: Feb 19. Cloud Computing. 
 * Reading: [NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) 
 * Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
-* [**Assignment 4**](Assign04.md) due March 12.
+* [**Assignment 4**](Assign04.md) due March 11.  GitHub Classrom Link for submitting: https://classroom.github.com/a/QvTS6nf2
 
 ### L7: Feb 26. Cloud Computing (Continued). 
 * **Assignment 5** due March 25.
