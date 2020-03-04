@@ -80,19 +80,33 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 ### L7: Feb 26. Cloud Computing (Continued). 
 * **Assignment 5** due March 25.
 
-### L8: March 4
+### L8: March 4. Clound Computing (Continued)
 * **Assignment 6** due April 1.
 ### L9: March 11
+Databases and computational workflows.
 * **Assignment 7** due April 8.
+
 ### L10: March 18 - **Spring Break**
 ### L11: March 25
+Databases and computational workflows.
 * **Assignment 8** due April 15.
+
 ### L12: April 1
 * **Assignment 9** due April 22.
+Containerization with docker.
+
 ### L13: April 8
 * **Assignment 10** due April 29.
+Big data analytics algorithms
+
 ### L14: April 15
 * **Assignment 11** due May 13.
+Machine learning frameworks: PyTorch
+
 ### L15: April 22 
+PySpark 
+
 ### L16: April 29
+PySpark 
+
 ### Final: May 13
