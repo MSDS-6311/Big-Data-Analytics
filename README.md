@@ -78,7 +78,7 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 * [**Assignment 4**](Assign04.md) due March 11.  GitHub Classrom Link for submitting: https://classroom.github.com/a/QvTS6nf2
 
 ### L7: Feb 26. Cloud Computing (Continued). 
-* **Assignment 5** due March 25.
+* [**Assignment 5**](Assign05.md) due March 25.
 
 ### L8: March 4. Clound Computing (Continued)
 * **Assignment 6** due April 1.
