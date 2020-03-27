@@ -78,22 +78,22 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 * [**Assignment 4**](Assign04.md) due March 11.  GitHub Classrom Link for submitting: https://classroom.github.com/a/QvTS6nf2
 
 ### L7: Feb 26. Cloud Computing (Continued). 
-* [**Assignment 5**](Assign05.md) due March 25.
+* [**Assignment 5**](Assign05.md) due April 1.
 
 ### L8: March 4. Clound Computing (Continued)
-* **Assignment 6** due April 1.
+
 ### L9: March 11
 Databases and computational workflows.
-* **Assignment 7** due April 8.
+Covid19 disruption, preparing for remote work.
 
 ### L10: March 18 - **Spring Break**
+
 ### L11: March 25
-Databases and computational workflows.
-* **Assignment 8** due April 15.
+* **Assignment 6** due April 15.
 
 ### L12: April 1
 * **Assignment 9** due April 22.
-Containerization with docker.
+Databases and computational workflows.
 
 ### L13: April 8
 * **Assignment 10** due April 29.
