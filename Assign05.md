@@ -8,10 +8,20 @@ In this assignment we will learn to create and use S3 buckets, launch an EC2 ins
 1. create a static website on s3 https://medium.com/@KerrySheldon/s3-exercise-2-1-host-a-static-website-on-s3-a5f9635c2258
 
 ### Part 2: Setup an EC2 instance with a Jupyter server
-1. launch an EC2 instance with linux, connect to it with ssh 
+1. In AWS console, launch an EC2 instance and note its security group.
+2. In AWS console, navigate to `Networks and Security > Security Groups`. Find the security group of your EC2 instance. Edit its `Inbound Rules`.
+
 1. configure access, set the security group with inbound access on port 8888 from anywhere (for Jupyter)
+1. launch an EC2 instance with linux, connect to it with ssh 
 1. install python and jupyter on your EC2 instance https://docs.aws.amazon.com/dlami/latest/devguide/setup-jupyter.html
+```bash 
+sudo apt install python3
+sudo pip3 install jupyter 
+```
 1. Set up SSH tunnel to the instance https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-ssh-tunnel-local.html
+```bash
+ssh -N -L 8888:127.0.0.1:8888 -i <your-certificate-file>.pem ubuntu@##-##-##-###-###.compute-1.amazonaws.com
+```
 1. Connect to Jupyter notebook 
 
 ### Part 3: Access S3 objects from Python 
