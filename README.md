@@ -89,7 +89,7 @@ Covid19 disruption, preparing for remote work.
 ### L10: March 18 - **Spring Break**
 
 ### L11: March 25
-* **Assignment 6** due April 15.
+* [**Assignment 6**](Assign06.md) due April 8. Work with EC2 instances.
 
 ### L12: April 1
 * **Assignment 9** due April 22.
