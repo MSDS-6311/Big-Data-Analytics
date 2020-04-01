@@ -16,13 +16,13 @@ After logging into your AWS console https://aws.amazon.com/console, navigate to 
  * Step 6: Security Group: Accept defaults > Next
  * Step 7: Review and Launch using one of your existing key pairs.
 
-### Part 2. Connect to your instance**
+### Part 2. Connect to your instance
  The instance will take a minute to initialize. Once it's ready, right-click on it and select "Connect". Follow the same process to connect to your new instance and you did to the course instance earlier in the course. 
 ```bash
 ssh -i <your-certificate-file>.pem ubuntu@##-##-###-####.ccompute-#.amazonaws.com
 ```
 
-### Part 3. Install open-source software** 
+### Part 3. Install open-source software 
 We will install python and jupyter. 
 
 Ubuntu has a software packaging tool named `apt`.  It can quickly install any selection of free software. Learn about `apt`: https://help.ubuntu.com/lts/serverguide/apt.html.
@@ -59,3 +59,6 @@ You can now connect to the remote notebook using the browser at the address: htt
 ### Part 6. Stop your instance 
 After you are done playing with jupyter notebooks and save your work, go back to the AWS console and stop your instance. You can start it again next time. 
 Select the instance. Select *Action* - *Instance State* - *Stop*.
+
+### Part 7. Submission 
+Simply show me your running notebook server in class. 
