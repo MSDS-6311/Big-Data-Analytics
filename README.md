@@ -92,21 +92,21 @@ Covid19 disruption, preparing for remote work.
 * [**Assignment 6**](Assign06.md) due April 8. Work with EC2 instances.
 
 ### L12: April 1
-* **Assignment 9** due April 22.
-Databases and computational workflows.
+* [**Assignment 7**](Assign07.md) due April 22.
+Databases and computational workflows. NewSQL
 
 ### L13: April 8
-* **Assignment 10** due April 29.
-Big data analytics algorithms
+* **Assignment 8** due April 29.
+Databases and computational workflows. NewSQL
 
 ### L14: April 15
-* **Assignment 11** due May 13.
-Machine learning frameworks: PyTorch
+* **Assignment 9** due May 13.
+Big data analytics algorithms
 
 ### L15: April 22 
-PySpark 
+Project
 
 ### L16: April 29
-PySpark 
+Project
 
 ### Final: May 13
