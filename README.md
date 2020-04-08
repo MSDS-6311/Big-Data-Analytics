@@ -92,15 +92,15 @@ Covid19 disruption, preparing for remote work.
 * [**Assignment 6**](Assign06.md) due April 8. Work with EC2 instances.
 
 ### L12: April 1
+Databases and computational workflows: DataJoint.
 * [**Assignment 7**](Assign07.md) due April 22.
-Databases and computational workflows. NewSQL
 
 ### L13: April 8
-* **Assignment 8** due April 29.
-Databases and computational workflows. NewSQL
+Databases and computational workflows: Cockroach DB.
+* **Assignment 8** due April 29. 
 
 ### L14: April 15
-* **Assignment 9** due May 13.
+* **Assignment 9** due May 
 Big data analytics algorithms
 
 ### L15: April 22 
