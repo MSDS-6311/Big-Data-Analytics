@@ -46,15 +46,15 @@ The notebook server will launch on port 8888.
 
 ### Part 5. Connect from your local computer 
 
-Before you can connect to the jupyter server, you need to set up an SSH tunnel to map port 8888 on the remote server to some port (e.g. 9000) on your local machine. 
+Before you can connect to the jupyter server, you need to set up an SSH tunnel to map port 8888 on the remote server to some port (e.g. 8889) on your local machine. 
 
-You can do this by adding `-N -L 8888:127.0.0.1:9999` to ssh connection command from Part 2.
+You can do this by adding `-N -L 8889:127.0.0.1:8888` to ssh connection command from Part 2.
 
 ```bash
-ssh -i <your-certificate-file>.pem ubuntu@##-##-###-####.ccompute-#.amazonaws.com -N -L 8888:127.0.0.1:9999
+ssh -i <your-certificate-file>.pem ubuntu@##-##-###-####.ccompute-#.amazonaws.com -N -L 8889:127.0.0.1:8888
 ```
 
-You can now connect to the remote notebook using the browser at the address: https://127.0.0.1:9000 (as if it were running on your computer).
+You can now connect to the remote notebook using the browser at the address: https://127.0.0.1:8889 (as if it were running on your computer).
 
 ### Part 6. Stop your instance 
 After you are done playing with jupyter notebooks and save your work, go back to the AWS console and stop your instance. You can start it again next time. 
