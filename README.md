@@ -80,7 +80,7 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 ### L7: Feb 26. Cloud Computing (Continued). 
 * [**Assignment 5**](Assign05.md) due April 1.
 
-### L8: March 4. Clound Computing (Continued)
+### L8: March 4. Cloud Computing (Continued)
 
 ### L9: March 11
 Databases and computational workflows.
@@ -98,13 +98,13 @@ Databases and computational workflows: DataJoint.
 ### L13: April 8
 Databases and computational workflows: Cockroach DB.
 * [**Assignment 8**](Assign08.md) due April 29. 
+New Relational databases and computational workflows.
 
 ### L14: April 15
-* [**Assignment 9**](Assign09.md) due May 6. 
-DataJoint: Relational databases and computational workflows.
+* [**Assignment 9**](Assign09.md) due May 13 (Final). 
 
 ### L15: April 22 
-Big data analyticsi algorithms.
+Big data analytics algorithms.
 
 ### L16: April 29
 Project
