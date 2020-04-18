@@ -9,6 +9,7 @@ A new class of databases are described as "NewSQL" as a response to the NoSQL ex
 * Raft Algorithm for consensus. [Ongaro, D., & Ousterhout, J. (2014). In search of an understandable consensus algorithm.](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) 
 * NewSQL: Introduction to CockroachDB: 
   * [Architecture Overview](https://www.cockroachlabs.com/docs/stable/training/architecture-overview.html) 
+  * https://www.youtube.com/watch?v=H-nOcRz5Ztg
   * https://www.youtube.com/watch?v=zHgqC1muH8I
 
 Think of the following questions. 
@@ -19,4 +20,4 @@ Think of the following questions.
 3. Describe the CAP Theorem and how NewSQL database systems shift the tradeoffs between Consistency, Availability, and Partition tolerance.
 
 ## Submission
-We will further discuss these questions in the April 8th and April 15th lectures and you will submit your own answers.
+Use the GitHub Classroom link to fork this assignment.  Edit your answers in this document below and submit through GitHub.
