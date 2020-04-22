@@ -101,10 +101,12 @@ Databases and computational workflows: Cockroach DB.
 New Relational databases and computational workflows.
 
 ### L14: April 15
+Computational workflows and data pipelines with DataJoint
 * [**Assignment 9**](Assign09.md) due May 13 (Final). 
 
 ### L15: April 22 
-Big data analytics algorithms.
+* Deep learning frameworks and algorithms.
+* Project 
 
 ### L16: April 29
 Project
