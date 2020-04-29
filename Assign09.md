@@ -10,6 +10,8 @@ Learn about using deep learning for *image style transfer*:
 * Deep Learning with OpenCV https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
 
 
+# Challenge 
+
 1. Fork https://github.com/MSDS-6311/uh-demo in your github account and clone it on your instance. 
 2. Run `StyleTransfer.ipynb`
 3. Create a new notebook designing a new datajoint schema that catalogs something (e.g. famous people, fine art, your own photos), then downloads photos from URLs, applies style transfers, and plots a selection of results.
