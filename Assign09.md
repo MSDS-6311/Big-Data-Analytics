@@ -6,6 +6,8 @@ Learn about PyTorch:
 
 Learn about using deep learning for *image style transfer*: 
 * Gatys, L.A., Ecker, A.S. and Bethge, M., 2016. Image style transfer using convolutional neural networks. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2414-2423). [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+* Simonyan, K. and Zisserman, A., 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint [arXiv:1409.1556](https://arxiv.org/abs/1409.1556).
+* Deep Learning with OpenCV https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
 
 
 1. Fork https://github.com/MSDS-6311/uh-demo in your github account and clone it on your instance. 
