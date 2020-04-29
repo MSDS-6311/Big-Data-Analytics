@@ -1,8 +1,11 @@
 # Computational Data Pipelines with 
 
-Learn about PyTorch
+Learn about PyTorch:
+* Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen, T., Lin, Z., Gimelshein, N., Antiga, L. and Desmaison, A., 2019. PyTorch: An imperative style, high-performance deep learning library. In Advances in Neural Information Processing Systems (pp. 8024-8035). [pdf](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
+* PyTorch Tutorials https://pytorch.org/tutorials/
 
-Learn about Style Transfer
+Learn about using deep learning for *image style transfer*: 
+* Gatys, L.A., Ecker, A.S. and Bethge, M., 2016. Image style transfer using convolutional neural networks. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2414-2423). [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
 
 1. Fork https://github.com/MSDS-6311/uh-demo in your github account and clone it on your instance. 
