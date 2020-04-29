@@ -6,7 +6,7 @@ Learn about PyTorch:
 
 Learn about using deep learning for *image style transfer*: 
 * Gatys, L.A., Ecker, A.S. and Bethge, M., 2016. Image style transfer using convolutional neural networks. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2414-2423). [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
-* Deep Learning with OpenCV https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+* Image Style Transfer with Open CV https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/
 
 
 # Challenge 
