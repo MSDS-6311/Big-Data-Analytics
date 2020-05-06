@@ -18,4 +18,5 @@ Learn about using deep learning for *image style transfer*:
 Note: you will need to install `cv2` using the command (on Ubuntu): 
 ```shell
 $ sudo apt install python3-opencv
+$ sudo pip3 install opencv-contrib-python
 ```
