@@ -1,6 +1,8 @@
 # Big Data
 
-Spring 2020.  Instructor Dr. [Dimitri Yatsenko](https://github.com/dimitri-yatsenko)
+Spring 2021.  Instructor Dr. [Dimitri Yatsenko](https://github.com/dimitri-yatsenko)
+
+[Academic Calendar](https://www.stthom.edu/Public/getFile.asp?File_Content_ID=120137)
 
 ### Catalog Course Description
 The tools and techniques of managing and analyzing big data will be covered. Students learn how to use cloud services and data mining techniques for analyzing big data. **Prerequisites:** MSDS 5311.
@@ -13,10 +15,8 @@ Slack organization: https://big-data-ust.slack.com
 
 Meeting time: Wednesday 5.30 - 8.15 pm
 
-Office Hours: Tuesday 6.30 - 7.30 pm
-
 ## Topics 
-1. Characteristics of Big Data. Analytics Flow. 
+1. Characteristics of Big Data.
 2. Big Data Patterns. Big Data Developments Stacks. Big Data Architectures. Examples.
 3. Cloud computing: definitions and capabilities. 
 4. Scientific computational workflow management. 
@@ -28,7 +28,7 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 9. Programming in PySpark and Hadoop
 
 ## Grading 
-10-12 Assignments/projects 
+8-10 Assignments/projects 
 
 |grade| percent |
 |---|---|
@@ -46,17 +46,17 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 
 
 ## Lectures and assignments 
-### L1: Jan 15. Course overview. 
+### L1: Jan 13. Course overview. 
 * Connect to cloud instances, configure accounts. 
 * *Practice:* Using ssh and bash command line utilities: 
 * [**Assignment1**](Assign01.md) due Jan 27.
 
-### L2: Jan 22. Big Data applications and tools  
+### L2: Jan 20. Big Data applications and tools  
 * Recommended reading for a gentle, non-technical introduction: [Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/) 
 * *Practice*: hashes and UUIDs 
 * [**Assignment 2**](Assign02.md) due Feb 6.
 
-### L3: Jan 29. Big Data applications and tools (continued). 
+### L3: Jan 27. Big Data applications and tools (continued). 
 * Recommended reading for general practical issues with Python-based examples: [Jules Berman, Principles and Practice of Big Data (2nd Edition)](https://learning.oreilly.com/library/view/principles-and-practice/9780128156100) Chapters 1 and 3.  
 * *Practice*: version control with [`git`](https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197).
 * Business case: [SiteZeus](https://sitezeus.com)
@@ -84,7 +84,6 @@ Office Hours: Tuesday 6.30 - 7.30 pm
 
 ### L9: March 11
 Databases and computational workflows.
-Covid19 disruption, preparing for remote work.
 
 ### L10: March 18 - **Spring Break**
 

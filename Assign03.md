@@ -10,6 +10,7 @@ Learn to use *regular expressions*. Resources:
 Learn the principles of `git` and its usage from the command line. 
 * Git Handbook https://guides.github.com/introduction/git-handbook/
 * Learning Git: https://learngitbranching.js.org/
+* Columbia University resource https://zuckermanbrain.github.io/git-novice/
 
 ## Example of Big Data: SiteZeus 
 * [Video 1](https://www.youtube.com/watch?v=c4m4HH19m5Q) -- Model basics and adding data 

@@ -6,12 +6,19 @@ Let's review basic usage of command line utilities for working in a Unix termina
 
 The are many resources to help learning Linux command-line utilities. Please go through an online tutorial if you need a refresher. This one seems decent: https://ryanstutorials.net/linuxtutorial/commandline.php 
 
-Open the terminal window on your personal computer and use the `ssh` utility with the certificate file provided to you to log into your account on `main.data-science-ust.net`.
+
+MIT Missing Semester Lectures: https://missing.csail.mit.edu/
+1. Shell: https://missing.csail.mit.edu/2020/course-shell/
+2. Scripting: https://missing.csail.mit.edu/2020/shell-tools/
+3. Editors: https://missing.csail.mit.edu/2020/editors/
+5. Command-line environments: https://missing.csail.mit.edu/2020/command-line/
+
+Open the terminal window on your personal computer and use the `ssh` utility with the certificate file provided to you to log into your account on `main.ust-data-sci.net`.
 
 If your name is Bob, the connection command will be
 
 ```shell
-ssh -i bob-big-data.pem bob@main.data-science-ust.net
+ssh -i bob-big-data.pem bob@main.ust-data-sci.net
 ```
 
 Please let me know if you cannot locate your `.pem` file and I will issue you a new one. Keep the file safe and do not share it.
@@ -41,7 +48,7 @@ Due Jan 27, 2020
 
 To complete this assignment, perform the following 
 
-1. Log into `main.data-science-ust.net`. Upon login, you are in your home directory, which is `/home/bob` if you are Bob. You can always go back to your home folder using `cd ~`. In paths, `~` is shorthand for your home folder. 
+1. Log into `main.ust-data-sci.net`. Upon login, you are in your home directory, which is `/home/bob` if you are Bob. You can always go back to your home folder using `cd ~`. In paths, `~` is shorthand for your home folder. 
 2. In your home directory, create a folder named `homework`. Remove the `x` permission on the folder from others so that no one else can access your work.
 3. Inside `homework`, create another folder named `a01`
 4. Inside `~/homework/a01`, create a text file named `data-science.txt` Edit the file and write your explanation of the principal differences between the use of the terms "statistics" and "data-science". 
