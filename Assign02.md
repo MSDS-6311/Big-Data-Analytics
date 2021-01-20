@@ -3,6 +3,17 @@
 
 Due Feb 3, 2021
 
+Skills: 
+* write Python programs and run them from the shell command line.
+* Understand one-way hash functions 
+* Generate hashes from binary data using diffferent has functions (`MD5`, `SHA-1`)
+* Learn about using command-line utilities `md5sum` and `sha1sum` to make and check integrity of files. 
+* Learn to use the `hashblib` module from the Python standard library to compute hashes from binary data. 
+* Learn about UUIDs and their uses. The `uuid` module in the Python standard library. 
+
+Read Berman Chapter 3. 
+
+
 Hash functions find wide use in Data Science.  
 
 Some uses include: 

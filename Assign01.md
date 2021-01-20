@@ -1,5 +1,11 @@
 # Unix command line
 
+## Skills:
+1. connect to a remote server using `ssh`
+2. Navigate the file system in a Linux console
+3. Learn to edit text files in a terminal shell 
+4. Learn to write and execute shell scripts and python programs from the command line. 
+
 Unix command line utilities have been around for nearly half a century and they will continue to be the principal way for communicating with servers and remote systems for decades to come. All major operating systems (including Windows PowerShell) support Unix-style command line utilities.
 
 Let's review basic usage of command line utilities for working in a Unix terminal. More specifically, we will work Linux, one the most popular derivatives of Unix. 
