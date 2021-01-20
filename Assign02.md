@@ -1,7 +1,7 @@
 # Assignment 2. Hash functions and UUIDs
 
 
-Due Feb 3, 2020
+Due Feb 3, 2021
 
 Hash functions find wide use in Data Science.  
 

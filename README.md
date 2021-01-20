@@ -54,7 +54,7 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 ### L2: Jan 20. Big Data applications and tools  
 * Recommended reading for a gentle, non-technical introduction: [Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/) 
 * *Practice*: hashes and UUIDs 
-* [**Assignment 2**](Assign02.md) due Feb 6.
+* [**Assignment 2**](Assign02.md) due Feb 3.
 
 ### L3: Jan 27. Big Data applications and tools (continued). 
 * Recommended reading for general practical issues with Python-based examples: [Jules Berman, Principles and Practice of Big Data (2nd Edition)](https://learning.oreilly.com/library/view/principles-and-practice/9780128156100) Chapters 1 and 3.  
