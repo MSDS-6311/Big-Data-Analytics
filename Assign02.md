@@ -19,7 +19,7 @@ In this exercise, you will master the following two modules of the Python standa
 The purpose of this exercise is develop understanding and skills for using hashes for identification and verification of data objects. 
 
 
-In your home folder on `main.data-science-ust`, create the folder `~/homework/a02`. 
+In your home folder on `main.ust-data-sci.net`, create the folder `~/homework/a02`. 
 For each problem below, save the answer in a separate file with extensions `.txt` for text files and `.py` for python programs. Make the python programs executable specifying the Python interpreter and granting the `x` permission to yourself with the `chmod` command.
 
 ### Problem 1 (Math).
