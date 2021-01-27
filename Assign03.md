@@ -1,16 +1,26 @@
 # Assignment 3: Regular Expressions, Git, and a Business Case
 
+Due Feb 10, 2021
+
+Skills: 
+* Learn to use regular expressions for finding patterns in text 
+* Learn to use git for sharing files with others and version control
+* Analyze a Big Data  business case 
+ 
+
 ## Regular expressions
-Learn to use *regular expressions*. Resources:
+Learn to use *regular expressions* in Python, `grep`, etc. Resources:
 * https://regexone.com/lesson/introduction_abcs
 * https://www.kaggle.com/sohier/introduction-to-regular-expressions
 * https://www.guru99.com/python-regular-expressions-complete-tutorial.html
+* https://docs.python.org/3/library/re.html
 
 ## Git 
 Learn the principles of `git` and its usage from the command line. 
+* Git in data science [`git`](https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197).
 * Git Handbook https://guides.github.com/introduction/git-handbook/
 * Learning Git: https://learngitbranching.js.org/
-* Columbia University resource https://zuckermanbrain.github.io/git-novice/
+* Columbia University GitHub Desktop tutorial https://zuckermanbrain.github.io/git-novice/
 
 ## Example of Big Data: SiteZeus 
 * [Video 1](https://www.youtube.com/watch?v=c4m4HH19m5Q) -- Model basics and adding data 
@@ -18,52 +28,26 @@ Learn the principles of `git` and its usage from the command line.
 * [Video 3](https://www.youtube.com/watch?v=OHGxfjNzIHY) -- SiteZeus + Uber Media on cell phone data
 
 # Assignment
-Accepting the homework link sent to you in class, you will fork the private repo https://github.com/MSDS-6311/MSDS-6311-A03. This creates a new repo, for example https://github.com/MSDS-6311/msds6311a3-meganwright612 for Megan. In class, you learned how to clone the repo from the command line to a host machine, e.g. the cloud instance or your personal computer.
 
-In this assignment, you will learn parts of the workflow working with `git` repositories.
+## Problem 1: Regular expressions 1.
+Review the program `list_tags.py` included with this assignment.  It reads the file `/home/shared/Tweets.csv` and prints hashtags from it. 
 
-### 1. Pull updates from the "upstream" repo 
-
-Read about the concept of remote repos in `git`.
-
-In your cloned directory, use the `git remote` commands to view currently configured remotes. 
-```shell
-git remote -v
-```
-Initially, you will only have one remote called `origin`.
-
-Let's add a new remote called `upstream` pointing to the original source of the assignment from which your repo was forked.
-```shell
-git remote add upstream https://github.com/MSDS-6311/MSDS-6311-A03
-```
-This will enable you to pull changes made to that repository since you initially cloned it:
-```shell
-git pull upstream master 
-```
-At this point, `git` will merge the upstream changes. If there are conflicts, it will indicate which files must e edited to resolve the conflict.
-
-To see the current status of your repository, use 
-```
-git status
-```
-
-To commit your changes, use
-```
-git add -u
-git commit
-```
-This will  bring up an editor to edit the commit message.
-
-After a successful commit, you can push the changes back to your repository with the command
-
-```
-git push
-```
-
-Then you can review the contents of your repository on `GitHub.com`.
+* Modify it so that it will only print unique tags, skipping duplicates.
+* Notice that the program misses some hashtags because it does not match tags containing digits. Modify the program so that it will match all valid Twitter hashtags.
 
 
-Follow the instructons in the `README` file (front page of the repo) to complete the assignment.
+## Problem 2. Regular expressions 2.
+Write a new program, `list_love_tags.py` that lists all unique hasthags containing the word "love", ignoring case. To verify, I got 44 matches.
 
+ 
+## Problem 3: SiteZeus business model
+In the same folder, create the file `BusinessModel.md`. Using the [markdown syntax](https://guides.github.com/features/mastering-markdown/), write a 1000-1500 word description of how SiteZeus uses big data to create value for their customers.
 
+1. What problem does SiteZeus address?  What did customers do before solutions like SiteZeus existed?
+2. What data sources does the platform use?
+3. How does the platform transform the data to make it useful for its subscribers?
+4. What technical challenges does the company need to solve to make their service effective?
 
+# Submit the assignment.
+
+Work on the assignment but do not submit yet. I will provide submission instructions once I collect your GitHub accounts.

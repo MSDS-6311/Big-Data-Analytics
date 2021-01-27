@@ -59,11 +59,10 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 
 ### L3: Jan 27. Big Data applications and tools (continued). 
 * Recommended reading for a gentle, non-technical introduction: [Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/) 
-* *Practice*: version control with [`git`](https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197).
-* Business case: [SiteZeus](https://sitezeus.com)
-  * [Video 1: Model basics and adding data](https://www.youtube.com/watch?v=c4m4HH19m5Q)
-  * [Video 2: Predictive modeling](https://www.youtube.com/watch?v=CuihDgBtApI)
-  * [Video 3: Using cell phone data](https://www.youtube.com/watch?v=OHGxfjNzIHY) 
+* Regular expressions 
+* Version control with `git` 
+* A Big Data business case 
+* [**Assignment 3**](Assign03.md) due Feb 10.
 
 ### L4: Feb 5. Big Data management.  
 * Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
