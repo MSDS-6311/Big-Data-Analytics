@@ -58,7 +58,6 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 * [**Assignment 2**](Assign02.md) due Feb 3.
 
 ### L3: Jan 27. Big Data applications and tools (continued). 
-* Recommended reading for a gentle, non-technical introduction: [Kelleher and Tierney, Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/) 
 * Regular expressions 
 * Version control with `git` 
 * A Big Data business case 
@@ -67,7 +66,7 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 ### L4: Feb 5. Big Data management.  
 * Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
 * *Practice*: data serialization, object storage.
-* [**Assignment 3**](Assign03.md) due Feb 18.
+* [**Assignment 4**](Assign04.md) due Feb 17.
 
 ### L5: Feb 12. Big Data Management (continued)
 
