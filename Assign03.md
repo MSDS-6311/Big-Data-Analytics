@@ -4,8 +4,10 @@ Due Feb 10, 2021
 
 Skills: 
 * Learn to use regular expressions for finding patterns in text 
+* Learn to use `scp` for copying files 
 * Learn to use git for sharing files with others and version control
 * Analyze a Big Data  business case 
+* Learn Markdown for formatted text
  
 
 ## Regular expressions
@@ -50,4 +52,4 @@ In the same folder, create the file `BusinessModel.md`. Using the [markdown synt
 
 # Submit the assignment.
 
-Work on the assignment but do not submit yet. I will provide submission instructions once I collect your GitHub accounts.
+Create these files and programs on the cloud linux server in folder `~/homework/a03/` and I will review it there for the grade. 

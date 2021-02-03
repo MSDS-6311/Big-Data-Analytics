@@ -63,18 +63,17 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 * A Big Data business case 
 * [**Assignment 3**](Assign03.md) due Feb 10.
 
-### L4: Feb 5. Big Data management.  
-* Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
-* *Practice*: data serialization, object storage.
-* [**Assignment 4**](Assign04.md) due Feb 17.
-
-### L5: Feb 12. Big Data Management (continued)
-
-
-### L6: Feb 19. Cloud Computing. 
+### L4: Feb 3. Cloud Computing.  
 * Reading: [NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) 
 * Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
-* [**Assignment 4**](Assign04.md) due March 11.  GitHub Classrom Link for submitting: https://classroom.github.com/a/QvTS6nf2
+* [**Assignment 4**](Assign04.md) due Feb 24.
+
+### L5: Feb 10. Cloud (continued)
+
+
+### L6: Feb 19. Big Data Management. 
+* Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
+* *Practice*: data serialization, object storage.
 
 ### L7: Feb 26. Cloud Computing (Continued). 
 * [**Assignment 5**](Assign05.md) due April 1.
