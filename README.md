@@ -68,25 +68,28 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 * Recommended Reading (gentle non-technical introduction): [Nayan B. Ruparelia "Cloud Computing" The MIT Press Essential Knowledge Series.](https://www.amazon.com/Cloud-Computing-Press-Essential-Knowledge/dp/0262529092/) 
 * [**Assignment 4**](Assign04.md) due Feb 24.
 
-### L5: Feb 10. Cloud (continued)
-
-
-### L6: Feb 19. Big Data Management. 
+### L5: Feb 10. Cloud (continued), Big Data Management 
 * Recommended reading: Guy Harrison, ["Next Generation Databases: NoSQL, NewSQL, and Big Data", ISBN-13: 978-1484213308, ISBN-10: 1484213300.](https://www.amazon.com/Next-Generation-Databases-NoSQLand-Data/dp/1484213300) 
+* Creating an EC2 instance 
+* Install open-source software packages 
+* Creating an SSH tunnel 
+* Accessing a Jupyter notebook
+* [**Assignment 5**](Assign05.md) due **March 3**: Using EC2 instances.
+
+### L6: Feb 17. Big Data Management. 
 * *Practice*: data serialization, object storage.
+* [**Assignment 5**](Assign06.md) due **March 10**: Create a webpage using S3.
 
-### L7: Feb 26. Cloud Computing (Continued). 
-* [**Assignment 5**](Assign05.md) due April 1.
+### L7: Feb 24. Cloud Computing (Continued). 
 
-### L8: March 4. Cloud Computing (Continued)
+### L8: March 3. Cloud Computing (Continued)
 
-### L9: March 11
+### L9: March 10
 Databases and computational workflows.
 
-### L10: March 18 - **Spring Break**
+### L10: March 17 - **Spring Break**
 
-### L11: March 25
-* [**Assignment 6**](Assign06.md) due April 8. Work with EC2 instances.
+### L11: March 24
 
 ### L12: April 1
 Databases and computational workflows: DataJoint.
