@@ -88,12 +88,12 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 Containerization with docker. 
 
 ### L10: March 17 
+Databases and computational workflows: DataJoint.
+* [**Assignment 7**](Assign07.md) due April 22.
 
 ### L11: March 24
 
 ### L12: April 1
-Databases and computational workflows: DataJoint.
-* [**Assignment 7**](Assign07.md) due April 22.
 
 ### L13: April 8
 Databases and computational workflows: Cockroach DB.
