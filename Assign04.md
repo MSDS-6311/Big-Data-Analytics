@@ -17,9 +17,7 @@ Using the AWS accounts set up for you in class, learn your way around the AWS co
 * https://aws.amazon.com/s3/
 
 ## Submission 
-Submission details will be clarified by next week. 
-
-To submit the assignment, edit this `README.md` file, commit the changes and push to your GitHub repository before the due date. 
+To submit the assignment, print as PDF and send by Slack to the instructor. 
 
 
 ### Question 1  

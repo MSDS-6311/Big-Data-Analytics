@@ -76,18 +76,18 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 * Accessing a Jupyter notebook
 * [**Assignment 5**](Assign05.md) due **March 3**: Using EC2 instances.
 
-### L6: Feb 17. Big Data Management. 
+#### L6: Feb 17. Winter storm. Power outage. No class.
+
+### L7: Feb 24. Big Data Management. 
 * *Practice*: data serialization, object storage.
 * [**Assignment 5**](Assign06.md) due **March 10**: Create a webpage using S3.
-
-### L7: Feb 24. Cloud Computing (Continued). 
 
 ### L8: March 3. Cloud Computing (Continued)
 
 ### L9: March 10
-Databases and computational workflows.
+Containerization with docker. 
 
-### L10: March 17 - **Spring Break**
+### L10: March 17 
 
 ### L11: March 24
 
