@@ -78,18 +78,19 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 
 #### L6: Feb 17. Winter storm. Power outage. No class.
 
-### L7: Feb 24. Big Data Management. 
-* *Practice*: data serialization, object storage.
+### L7: Feb 24. skipped
 * [**Assignment 5**](Assign06.md) due **March 10**: Create a webpage using S3.
 
-### L8: March 3. Cloud Computing (Continued)
+### L8: March 3. Containers
+* Data serialization, object storage.
+* Containerization with Docker 
+* Data serialization
 
-### L9: March 10
-Containerization with docker. 
+
+### L9: March 10 - Spring Break
 
 ### L10: March 17 
 Databases and computational workflows: DataJoint.
-* [**Assignment 7**](Assign07.md) due April 22.
 
 ### L11: March 24
 
