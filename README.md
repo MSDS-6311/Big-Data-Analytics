@@ -87,26 +87,24 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 * Data serialization
 
 
-### L9: March 10 - Spring Break
+### March 10 - Spring Break
 
-### L10: March 17 
+### L9: March 17 
 * NewSQL: Scalable relational databases and consensus algorithms.
 * [**Assignment 7**](Assign07.md) due **March 31**
 * Databases and computational workflows: DataJoint.
 
-### L11: March 24
+### L10: March 24
 * Building data pipelines 
 
-### L12: April 1
+### L11: March 31
+* Build computational workflows 
+* Use git and GitHub. Forking, cloning, adding, committing, pushing, and pulling.
+* [**Assignment 8**](Assign08.md) due April 20
 
-### L13: April 8
-Databases and computational workflows: Cockroach DB.
-* [**Assignment 8**](Assign08.md) due May 6. 
-New Relational databases and computational workflows.
+### L13: April 6
 
-### L14: April 15
-Computational workflows and data pipelines with DataJoint
-* [**Assignment 9**](Assign09.md) due May 13 (Final). 
+### L13: April 6
 
 ### L15: April 22 
 * Deep learning frameworks and algorithms.
