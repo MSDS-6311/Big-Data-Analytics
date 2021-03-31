@@ -48,7 +48,7 @@ Then copy the `docker-compose.yml` file and start the database service
 
 ```sh
 $ cp local-docker-compose.yml docker-compose.yml
-$ docker-compose up -d`
+$ docker-compose up -d
 ```
 The `root` password in the database server is `simple`
 
