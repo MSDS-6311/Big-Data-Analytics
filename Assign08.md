@@ -11,10 +11,11 @@ Learn about using deep learning for *image style transfer*:
 * Image Style Transfer with Open CV https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/
 * A simple example https://www.kaggle.com/bhallaakshit/neural-style-transfer-with-opencv/notebook
 
-Note: you will need to install `cv2` using the command (on Ubuntu):
+Note: you will need to install `cv2` and `graphviz` using the command (on Ubuntu):
 ```shell
 $ sudo apt install python3-opencv
 $ sudo pip3 install opencv-contrib-python
+$ sudo apt install graphviz 
 ```
 
 ## 
