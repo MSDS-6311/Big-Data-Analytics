@@ -11,15 +11,16 @@ Learn about using deep learning for *image style transfer*:
 * Image Style Transfer with Open CV https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/
 * A simple example https://www.kaggle.com/bhallaakshit/neural-style-transfer-with-opencv/notebook
 
-Note: you will need to install `cv2` using the command (on Ubuntu):
+Note: you will need to install `graphviz` and `cv2` using the command (on Ubuntu):
 ```shell
+$ sudo apt update
+$ sudo apt install graphviz
 $ sudo apt install python3-opencv
 $ sudo pip3 install opencv-contrib-python
 ```
+If you find other Python packages missing, simply use the pip3 utilities to install them. 
 
-## 
-
-## Launch MySQL database server using 
+## Launch MySQL database server using docker-compose 
 
 On your own EC2 instance, clone datajoint
 ```shell
@@ -31,7 +32,6 @@ Install DataJoint for Python
 $ cd datajoint-python
 $ pip install -e .
 ```
-
 
 Create an `.env` with desired development environment values e.g.
 
