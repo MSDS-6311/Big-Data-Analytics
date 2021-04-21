@@ -100,10 +100,11 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 ### L11: March 31
 * Build computational workflows 
 * Use git and GitHub. Forking, cloning, adding, committing, pushing, and pulling.
-* [**Assignment 8**](Assign08.md) due April 20
+* [**Assignment 8**](Assign08.md) due April 21
 
 ### L13: April 7
 Work on projects.
+* [**Assignment 9**](Assign09.md) due April 28
 
 ### L13: April 14
 Work on projects.
@@ -115,5 +116,5 @@ Work on projects.
 ### L16: April 28
 Review, Work on projects. 
 
-### Final: May 5
+### L17: May 5
 Turn in all assignments. Review.
