@@ -102,15 +102,18 @@ Meeting time: Wednesday 5.30 - 8.15 pm
 * Use git and GitHub. Forking, cloning, adding, committing, pushing, and pulling.
 * [**Assignment 8**](Assign08.md) due April 20
 
-### L13: April 6
+### L13: April 7
+Work on projects.
 
-### L13: April 6
+### L13: April 14
+Work on projects.
 
-### L15: April 22 
+### L15: April 21 
 * Deep learning frameworks and algorithms.
-* Project 
+* [**Assignment 10**](Assign10.md) due May 5
 
-### L16: April 29
-Project
+### L16: April 28
+Review, Work on projects. 
 
-### Final: May 13
+### Final: May 5
+Turn in all assignments. Review.
